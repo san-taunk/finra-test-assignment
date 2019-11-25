@@ -1,0 +1,10 @@
+<webscript>
+    <shortname>Create Sample File and User Webscript</shortname>
+    <description>Create Sample File and User Webscript</description>
+    <url>/finra/create/{fileName}/{userId}</url>
+    <authentication>admin</authentication>
+    <transaction>none</transaction>
+    <format default="">argument</format>
+    <lifecycle>sample</lifecycle>
+    <family>finra</family>  
+</webscript>

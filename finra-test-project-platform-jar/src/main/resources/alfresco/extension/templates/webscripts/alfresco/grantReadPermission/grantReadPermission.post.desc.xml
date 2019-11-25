@@ -1,0 +1,10 @@
+<webscript>
+    <shortname>Grant Read Permission to User on NodeRef Webscript</shortname>
+    <description>Grant Read Permission to User on NodeRef Webscript</description>
+    <url>/finra/grant/readaccess</url>
+    <authentication>admin</authentication>
+    <transaction>none</transaction>
+    <format default="">argument</format>
+    <lifecycle>sample</lifecycle>
+    <family>finra</family>      
+</webscript>
